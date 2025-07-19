@@ -1,12 +1,4 @@
-from clases import Campana, Anuncio
+from clases import *
 
 
-c = Campana("Campana1", "dads", "adasds")
-
-c.componer_anuncios()
-
-print<(c)
-
-a = Anuncio.mostrar_formatos()
-
-print(a)
+a = Video(5)
